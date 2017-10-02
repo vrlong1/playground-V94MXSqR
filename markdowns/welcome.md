@@ -11,9 +11,11 @@ What's Harry Potter without Dumbledor? You will need a guide to help you on your
 Insert coolness here
 
 # Our Tools of Trade
-This week we will be covering different tools to help you get started in the programming field! We will take a crack at:
+This week we will be covering different tools to help you get started in the programming field! We will be covering:
 * Scratch Programming
 * Sphero
 * Web Dev
+
+In this lesson we will take a crack at Scratch. Click the next page to continue.
 
 Ready or not, here we goooo!
