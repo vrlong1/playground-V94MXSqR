@@ -2,5 +2,5 @@ title: AspireIT Scratch
 plan:
   - title: Get ready, Game Master!
     statement: markdowns/welcome.md
-  - title: Scratch the Surface with Scratch Programming
+  - title: What is Scratch
     statement: markdowns/part2.md
