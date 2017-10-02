@@ -1,6 +1,6 @@
-# Welcome!
+# Welcome to Camp!
 
-Hello! This is the first lesson in the #innovate tech camp. 
+Hello! Welcome to #innovate tech camp, young and brilliant coder. This week will be one of imagination, of adventure, of non-stop technological fun! 
 
 
 Please refer to the [documentation](https://tech.io/doc) to learn more about adding programming exercises within your contribution.
