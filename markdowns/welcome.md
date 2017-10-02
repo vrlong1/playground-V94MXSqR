@@ -6,6 +6,6 @@ Hello! Welcome to #innovate tech camp, young and brilliant coder. This week will
 
 # Our Tools of Trade
 This week we will be covering different tools to help you get started in the programming sphere! We will take a crack at:
-Scratch Programming
-Sphero
-Web Dev
+Scratch Programming/n
+Sphero/n
+Web Dev/n
