@@ -6,6 +6,6 @@ Scratch is a block-building coding platform that allows you to make games and sh
 
 Start by going to the Scratch website with this URL: https://scratch.mit.edu/
 
-
+On the top left corner of the website, click "Create"
 
 # Creating Your Sprite
